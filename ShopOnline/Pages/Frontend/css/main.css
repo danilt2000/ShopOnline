@@ -1,5 +1,5 @@
 .description{
-    background-image: url('ShopOnline/Pages/Frontend/img/main.png');
+    background-image: url("../img/main.png");
     background-repeat: no-repeat;
     width: 100%;
     height: 100vh;
@@ -48,13 +48,13 @@ color: #7EB693;
 }
 
 .discounts__block_1{
-    background-image: url('img/main_2.png');
+    background-image: url('../img/main_2.png');
     width: 625px;
     height: 378px;
 }
 
 .discounts__block_2{
-    background-image: url('img/main_1.png');
+    background-image: url('../img/main_1.png');
     width: 625px;
     height: 378px;
 }
@@ -264,7 +264,7 @@ justify-content: space-around;
 }
 
 .testimonial{
-    background-image: url('ShopOnline/Pages/Frontend/img/Testimonial.png');
+    background-image: url('../img/Testimonial.png');
     background-repeat: no-repeat;
     width: 100%;
     height: 100vh;
