@@ -168,7 +168,7 @@
   color: #525c60;
 }
 
-.products {
+.prs {
   margin-top: 120px;
 }
 
@@ -247,6 +247,11 @@
 
 .riice {
   display: flex;
+}
+
+.prtimonial{
+    background-image: url('../img/Testimonial.png') ;
+    text-align: center;
 }
 
 .price__up__to {
