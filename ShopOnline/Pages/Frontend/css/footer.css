@@ -1,0 +1,98 @@
+footer p{
+    margin: 0;
+}
+
+.footer_block{
+    display: flex; justify-content: space-between;
+}
+
+.footer__contact{
+    display: flex;
+}
+
+.footer__contact__text{
+    text-align: right;
+    margin-right: 20px;
+}
+
+.footer__contact__text h5{
+    font-weight: 700;
+font-size: 30px;
+line-height: 42px;
+letter-spacing: 0.36px;
+color: #274C5B;
+padding-bottom: 35px;
+}
+
+.fot__cont__top{
+    font-weight: 700;
+font-size: 18px;
+line-height: 23px;
+letter-spacing: 0.36px;
+color: #525C60;
+}
+
+.fot__cont__bottom{
+    font-weight: 400;
+font-size: 18px;
+line-height: 29px;
+letter-spacing: 0.36px;
+color: #525C60;
+padding-bottom: 40px;
+}
+
+.footer_trait{
+    background: #D5D5D5;
+    height: 369px;
+    width: 1px;
+}
+
+.footer__about{
+    text-align: center;
+}
+
+.footer__about img{
+    width: 200px;
+    height: 56px;
+}
+
+.footer__about p{
+    font-weight: 400;
+font-size: 18px;
+line-height: 32px;
+text-align: center;
+letter-spacing: 0.36px;
+color: #525C60;
+padding-top: 44px;
+}
+
+.links__to__social__networks img{
+    width: 304px;
+    height: 70px;
+    margin-top: 50px;
+}
+
+.footer__utility{
+    display: flex;
+}
+
+.footer__utility__text{
+    margin-left: 10px;
+}
+
+.footer__utility__text h4{
+    font-weight: 700;
+font-size: 30px;
+line-height: 42px;
+letter-spacing: 0.36px;
+color: #274C5B;
+}
+
+.footer__utility__text p{
+    font-weight: 400;
+font-size: 18px;
+line-height: 29px;
+letter-spacing: 0.36px;
+color: #525C60;
+padding-top: 20px;
+}
